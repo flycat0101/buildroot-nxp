@@ -548,6 +548,7 @@ F:	package/nxp/qoriq-optee-client/
 F:	package/nxp/qoriq-optee-os/
 F:	package/nxp/qoriq-optee-test/
 F:	package/nxp/qoriq-perl-exporter-tiny/
+F:	package/nxp/qoriq-perl-feedgnuplot/
 F:	package/nxp/qoriq-perl-list-moreutils/
 F:	package/nxp/qoriq-ppfe/
 F:	package/nxp/qoriq-prl/
