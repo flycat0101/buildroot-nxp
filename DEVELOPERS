@@ -547,6 +547,7 @@ F:	package/nxp/qoriq-mc-utils/
 F:	package/nxp/qoriq-ppfe/
 F:	package/nxp/qoriq-ptp4l/
 F:	package/nxp/qoriq-pyang/
+F:	package/nxp/qoriq-servo/
 
 N:	Chris Packham <judge.packham@gmail.com>
 F:	package/gstreamer1/gst1-shark/
