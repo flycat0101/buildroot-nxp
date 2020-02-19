@@ -1,0 +1,22 @@
+config BR2_PACKAGE_QORIQ_NETOPEER
+	bool "qoriq-netopeer-server"
+	select BR2_PACKAGE_QORIQ_PYANG
+	select BR2_PACKAGE_QORIQ_LIBNETCONF
+	select BR2_PACKAGE_PYTHON_CURSES
+	select BR2_PACKAGE_PYTHON_PYEXPAT
+	select BR2_PACKAGE_QORIQ_PYTHON_LIBXML2
+	select BR2_PACKAGE_OPENSSH
+	select BR2_PACKAGE_LIBSSH_SERVER
+	help
+	  Netopeer is a set of NETCONF tools built on the libnetconf library.
+	  It allows operators to connect to their NETCONF-enabled devices as
+	  well as developers to allow control their devices via NETCONF. More
+	  information about NETCONF protocol can be found at NETCONF WG.
+
+	  With the experiences from Netopeer, we have moved our activities to
+	  work on next generation of this NETCONF toolset based on libyang
+	  library. Netopeer2 is mature enough to be used as a replacement of
+	  the original Netopeer tools. Therefore, the Netopeer is no more
+	  developed neither maintained.
+
+	  https://github.com/CESNET/netopeer
