@@ -1,0 +1,10 @@
+comment "qorir-optee-client works on the arm architecture"
+	depends on BR2_arm
+
+config BR2_PACKAGE_QORIQ_OPTEE_CLIENT
+	bool "qoriq-optee-client"
+	help
+	  The qoriq-optee-client, containing the source code
+	  for the TEE client library in Linux.
+	  This component provides the TEE Client API as
+	  defined by the GlobalPlatform TEE standard.
