@@ -23,5 +23,6 @@ source "package/nxp/qoriq-prl/Config.in"
 source "package/nxp/qoriq-ptp4l/Config.in"
 source "package/nxp/qoriq-pyang/Config.in"
 source "package/nxp/qoriq-servo/Config.in"
+source "package/nxp/qoriq-sja1105-tool/Config.in"
 
 endmenu
