@@ -560,6 +560,7 @@ F:	package/nxp/qoriq-pyang/
 F:	package/nxp/qoriq-python-libxml2/
 F:	package/nxp/qoriq-servo/
 F:	package/nxp/qoriq-sja1105-tool/
+F:	package/nxp/qoriq-yang-sja1105/
 
 N:	Chris Packham <judge.packham@gmail.com>
 F:	package/gstreamer1/gst1-shark/
