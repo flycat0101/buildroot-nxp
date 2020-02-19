@@ -544,6 +544,7 @@ F:	package/nxp/qoriq-libblep/
 F:	package/nxp/qoriq-libnfc-nci/
 F:	package/nxp/qoriq-mc-fw/
 F:	package/nxp/qoriq-mc-utils/
+F:	package/nxp/qoriq-nodejs-lbt/
 F:	package/nxp/qoriq-optee-client/
 F:	package/nxp/qoriq-optee-os/
 F:	package/nxp/qoriq-optee-test/
