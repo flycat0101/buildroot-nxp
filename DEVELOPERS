@@ -548,6 +548,7 @@ F:	package/nxp/qoriq-optee-client/
 F:	package/nxp/qoriq-optee-os/
 F:	package/nxp/qoriq-optee-test/
 F:	package/nxp/qoriq-ppfe/
+F:	package/nxp/qoriq-prl/
 F:	package/nxp/qoriq-ptp4l/
 F:	package/nxp/qoriq-pyang/
 F:	package/nxp/qoriq-servo/
