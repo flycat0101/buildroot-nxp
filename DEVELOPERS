@@ -565,6 +565,7 @@ F:	package/nxp/qoriq-ptp4l/
 F:	package/nxp/qoriq-pyang/
 F:	package/nxp/qoriq-python-libxml2/
 F:	package/nxp/qoriq-servo/
+F:	package/nxp/qoriq-sja1105-ptp/
 F:	package/nxp/qoriq-sja1105-tool/
 F:	package/nxp/qoriq-sysrepo-tsn/
 F:	package/nxp/qoriq-transapi/
